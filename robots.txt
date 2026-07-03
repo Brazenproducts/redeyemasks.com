@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://redeyemasks.com/sitemap.xml
